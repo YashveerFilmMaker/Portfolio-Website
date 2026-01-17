@@ -517,7 +517,7 @@ a{
   }
 
   .project>div>div>div>a>button{
-    width: 70px;
+    width: 100px;
     height: 40px;
     transition: all 0.3s ease;
     margin-bottom: 4px;
